@@ -1,0 +1,14 @@
+ATOM      1  N   ALA     1      -0.959   0.480   0.000  0.00  0.00      PROA
+ATOM      2  CA  ALA     1       0.496   0.480   0.000  0.00  0.00      PROA
+ATOM      3  C   ALA     1       0.971   0.480   1.463  0.00  0.00      PROA
+ATOM      4  O   ALA     1       0.201   0.480   2.421  0.00  0.00      PROA
+ATOM      5  HN  ALA     1      -1.455   0.571   0.883  0.00  0.00      PROA
+ATOM      6  HA  ALA     1       0.840  -0.446  -0.476  0.00  0.00      PROA
+ATOM      7  CB  ALA     1       1.050   1.688  -0.746  0.00  0.00      PROA
+ATOM      8  1HB ALA     1       0.698   1.710  -1.782  0.00  0.00      PROA
+ATOM      9  2HB ALA     1       0.736   2.623  -0.268  0.00  0.00      PROA
+ATOM     10  3HB ALA     1       2.145   1.677  -0.763  0.00  0.00      PROA
+ATOM     11  HN  ALA     1      -1.467   0.556  -0.877  0.00  0.00      PROA
+ATOM     12  OXT ALA     1       2.306   0.480   1.669  0.00  0.00      PROA
+ATOM     13  HO  ALA     1       2.972   0.480   0.839  0.00  0.00      PROA
+TER
