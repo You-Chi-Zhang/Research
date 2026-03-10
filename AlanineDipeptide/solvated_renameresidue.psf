@@ -4,12 +4,12 @@ PSF
  REMARKS VMD-generated NAMD/X-Plor PSF structure file
 
     1363 !NATOM
-       1 ALAD 1    ALA  CAY  CT3           -0.27        12.011       0
-       2 ALAD 1    ALA  HY1  HA3            0.09         1.008       0
-       3 ALAD 1    ALA  HY2  HA3            0.09         1.008       0
-       4 ALAD 1    ALA  HY3  HA3            0.09         1.008       0
-       5 ALAD 1    ALA  CY   C              0.51        12.011       0
-       6 ALAD 1    ALA  OY   O             -0.51       15.9994       0
+       1 ALAD 1    ACE  CAY  CT3           -0.27        12.011       0
+       2 ALAD 1    ACE  HY1  HA3            0.09         1.008       0
+       3 ALAD 1    ACE  HY2  HA3            0.09         1.008       0
+       4 ALAD 1    ACE  HY3  HA3            0.09         1.008       0
+       5 ALAD 1    ACE  CY   C              0.51        12.011       0
+       6 ALAD 1    ACE  OY   O             -0.51       15.9994       0
        7 ALAD 1    ALA  N    NH1           -0.47        14.007       0
        8 ALAD 1    ALA  HN   H              0.31         1.008       0
        9 ALAD 1    ALA  CA   CT1            0.07        12.011       0
@@ -20,12 +20,12 @@ PSF
       14 ALAD 1    ALA  HB3  HA3            0.09         1.008       0
       15 ALAD 1    ALA  C    C              0.51        12.011       0
       16 ALAD 1    ALA  O    O             -0.51       15.9994       0
-      17 ALAD 1    ALA  NT   NH1           -0.47        14.007       0
-      18 ALAD 1    ALA  HNT  H              0.31         1.008       0
-      19 ALAD 1    ALA  CAT  CT3           -0.11        12.011       0
-      20 ALAD 1    ALA  HT1  HA3            0.09         1.008       0
-      21 ALAD 1    ALA  HT2  HA3            0.09         1.008       0
-      22 ALAD 1    ALA  HT3  HA3            0.09         1.008       0
+      17 ALAD 1    CT3  NT   NH1           -0.47        14.007       0
+      18 ALAD 1    CT3  HNT  H              0.31         1.008       0
+      19 ALAD 1    CT3  CAT  CT3           -0.11        12.011       0
+      20 ALAD 1    CT3  HT1  HA3            0.09         1.008       0
+      21 ALAD 1    CT3  HT2  HA3            0.09         1.008       0
+      22 ALAD 1    CT3  HT3  HA3            0.09         1.008       0
       23 WT1  5    TIP3 OH2  OT           -0.834       15.9994       0
       24 WT1  5    TIP3 H1   HT            0.417         1.008       0
       25 WT1  5    TIP3 H2   HT            0.417         1.008       0
